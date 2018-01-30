@@ -24,7 +24,7 @@ public class Person extends SocialSecurityNumber
 		firstName = "Jim";
 		lastName = "Doe";
 		gender = 'M';
-		age = 10;
+		age = 100;
 	}
 	
 	public Person(String fName, String lName, char gen, int ageInYears)
